@@ -1,14 +1,17 @@
-# Hello_World
-Currently a Junior double majoring in Business Analytics and Information Systems in addition to Accounting.
+
 
 # Project Title 
-**Hello World Sample**
+***Hello World***
 ## Description 
-
+Practice using GitHub by creating a sample repository.
 ## How to Run Program
-
+```
+Hello_World/
+└── 
+    │── README.md
+```
 ## Files Used 
-
+- README.md
 ## Additional Documentation 
-
+*No additional documentation at this time.*
 ## Version Summary
